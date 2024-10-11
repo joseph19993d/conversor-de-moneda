@@ -7,7 +7,7 @@ import java.util.Scanner;
 
 public class Main {
     public static void main(String[] args) {
-        // Bucle infinito para que la aplicación siga ejecutándose hasta que el usuario decida salir
+        // Bucle infinito - hasta que el usuario decida salir
         while (true) {
             // Instancia de la clase ConvertidorMoneda
             ConvertidorMoneda convertir = new ConvertidorMoneda();
