@@ -1,5 +1,7 @@
 # Conversor de Moneda
-NOTA: IR A LA RAMA MASTER
+NOTA: IR A LA RAMA MASTER.
+
+
 Este proyecto es un simple **Conversor de Moneda** que permite convertir entre varias divisas, proporcionando una experiencia rápida y sencilla para el usuario.
 
 En las siguientes imágenes se pueden notar algunas funcionalidades o el ciclo de ejecución. 
