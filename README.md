@@ -2,14 +2,12 @@
 
 Este proyecto es un simple **Conversor de Moneda** que permite convertir entre varias divisas, proporcionando una experiencia rápida y sencilla para el usuario.
 
-En las iguientes imagens se podran notar algunas funcinalidadades o ciclo de ejecución. 
+En las siguientes imágenes se pueden notar algunas funcionalidades o el ciclo de ejecución. 
 
- ![image](https://github.com/user-attachments/assets/677004e8-1f0f-4753-8855-a5d25181b2f0)
- ![image](https://github.com/user-attachments/assets/b8e867d2-1cca-4324-98ef-8b68ed1a114c)
- ![image](https://github.com/user-attachments/assets/ec1801fe-54ba-4dd6-89ae-704fd8cb88c0)
- ![image](https://github.com/user-attachments/assets/2b0dd4b5-a5a5-4210-9019-ff07c384131d)
- 
-
+![image](https://github.com/user-attachments/assets/677004e8-1f0f-4753-8855-a5d25181b2f0)
+![image](https://github.com/user-attachments/assets/b8e867d2-1cca-4324-98ef-8b68ed1a114c)
+![image](https://github.com/user-attachments/assets/ec1801fe-54ba-4dd6-89ae-704fd8cb88c0)
+![image](https://github.com/user-attachments/assets/2b0dd4b5-a5a5-4210-9019-ff07c384131d)
 
 ## Funcionalidades
 
@@ -33,5 +31,4 @@ El conversor permite realizar las siguientes conversiones:
 1. **Clonar el repositorio**:
 
    ```bash
-   [git clone https://github.com/joseph19993d/conversor-de-moneda/blob/master/README.md]
-   
+   git clone https://github.com/joseph19993d/conversor-de-moneda.git
