@@ -24,4 +24,4 @@ El conversor permite realizar las siguientes conversiones:
 1. **Clonar el repositorio**:
 
    ```bash
-   git clone https://github.com/usuario/conversor-de-moneda.git
+   [git clone https://github.com/usuario/conversor-de-moneda.git](https://github.com/joseph19993d/conversor-de-moneda/tree/master)
